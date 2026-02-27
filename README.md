@@ -2,7 +2,7 @@
 
 **Firmware Integration Architect | Scaling Connected Devices**
 
-Director at [TallTree Technologies](https://www.mokhtari.page) — bringing clarity to complex embedded real-time platforms and IoT systems where hardware, firmware, and software intersect.
+Director at [TallTree® Technologies](https://talltree.tech) — bringing clarity to complex embedded real-time platforms and IoT systems where hardware, firmware, and software intersect.
 
 ---
 
@@ -10,7 +10,8 @@ Director at [TallTree Technologies](https://www.mokhtari.page) — bringing clar
 
 | Company | Role | Focus |
 |---------|------|-------|
-| **TallTree Technologies** | Director & Firmware Integration Architect | IoT platforms, Matter protocol, firmware lifecycle |
+| **TallTree® Technologies** | Director & Firmware Integration Architect | IoT platforms, Matter protocol, firmware lifecycle |
+| **Schneider Electric** | Platform Consultant - Edge and Wiser Controllers | Next-gen controllers, Matter Integration and Platform Design |
 | **Ring (Amazon)** | Software Engineer — Connected Devices | Next-gen doorbell firmware, cloud integration |
 | **Roku** | Senior Software Engineer — NPI | Streaming device firmware, quality gates |
 | **Samsung Cambridge** | Senior Software Engineer — Wi-Fi Firmware | Wi-Fi 5/6/7, WPA3, NAN, FTM/RTT ranging |
@@ -31,5 +32,7 @@ MLME / MAC Layer         FSM Design                 Wireshark      CI/CD Pipelin
 
 ### Connect
 
-- **Portfolio:** [www.mokhtari.page](https://www.mokhtari.page)
 - **LinkedIn:** [linkedin.com/in/bzmokhtari](https://www.linkedin.com/in/bzmokhtari/)
+- **Company:** [www.talltree.tech](https://www.talltree.tech)
+- **EdgeCore Solutions:** [www.edgecore.tech](https://www.edgecore.tech)
+- **Portfolio:** [www.mokhtari.dev](https://www.mokhtari.dev)
