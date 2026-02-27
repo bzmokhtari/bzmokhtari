@@ -10,8 +10,8 @@ Director at [TallTree® Technologies](https://talltree.tech) — bringing clarit
 
 | Company | Role | Focus |
 |---------|------|-------|
+| **Schneider Electric** (via TallTree®) | Firmware Integration Architect — Edge & IoT | Wiser Controller, next-gen edge controller, Matter integration |
 | **TallTree® Technologies** | Director & Firmware Integration Architect | IoT platforms, Matter protocol, firmware lifecycle |
-| **Schneider Electric** | Platform Consultant - Edge and Wiser Controllers | Next-gen controllers, Matter Integration and Platform Design |
 | **Ring (Amazon)** | Software Engineer — Connected Devices | Next-gen doorbell firmware, cloud integration |
 | **Roku** | Senior Software Engineer — NPI | Streaming device firmware, quality gates |
 | **Samsung Cambridge** | Senior Software Engineer — Wi-Fi Firmware | Wi-Fi 5/6/7, WPA3, NAN, FTM/RTT ranging |
